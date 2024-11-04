@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain-openai
+langchain-core
+langgraph
+pypdf2
+python-docx
